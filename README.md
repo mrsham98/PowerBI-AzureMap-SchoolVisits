@@ -22,7 +22,8 @@ Explore the dashboard here:
 [Power BI Azure Map Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDkxMzhmM2EtNGU4MS00MDcxLWFlY2EtNDFjZWY3MmY0NDhkIiwidCI6IjVkOTQ4ZmM3LTY3MmUtNDgyMi1hZjlhLTNlZmI5ZGI2ZDE0ZSIsImMiOjEwfQ%3D%3D)
 
 ## 📷 Screenshots
-*(Add screenshots of your map + tooltips here for quick visual reference)*
+<img width="1443" height="783" alt="image" src="https://github.com/user-attachments/assets/243112e5-f06a-4b03-9e5a-73767ce593aa" />
+
 
 ---
 
